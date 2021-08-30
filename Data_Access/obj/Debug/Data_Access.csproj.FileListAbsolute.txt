@@ -1,0 +1,9 @@
+C:\Users\AlexJr\source\repos\Fecip 0.4\Data_Access\obj\Debug\Data_Access.csprojAssemblyReference.cache
+C:\Users\AlexJr\source\repos\Fecip 0.4\Data_Access\obj\Debug\Data_Access.csproj.CoreCompileInputs.cache
+C:\Users\AlexJr\source\repos\Fecip 0.4\Data_Access\bin\Debug\Data_Access.dll
+C:\Users\AlexJr\source\repos\Fecip 0.4\Data_Access\bin\Debug\Data_Access.pdb
+C:\Users\AlexJr\source\repos\Fecip 0.4\Data_Access\obj\Debug\Data_Access.dll
+C:\Users\AlexJr\source\repos\Fecip 0.4\Data_Access\obj\Debug\Data_Access.pdb
+C:\Users\AlexJr\source\repos\Fecip 0.4\Data_Access\bin\Debug\Banco_de_Dados.dll
+C:\Users\AlexJr\source\repos\Fecip 0.4\Data_Access\bin\Debug\Banco_de_Dados.pdb
+C:\Users\AlexJr\source\repos\Fecip 0.4\Data_Access\obj\Debug\Data_Access.csproj.CopyComplete

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <configSections>
+    
+    <section name="entityFramework" type="System.Data.Entity.Internal.ConfigFile.EntityFrameworkSection, EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false" />
+    
+  </configSections>
+  <connectionStrings>
+    <add name="Fecip_0._4.Properties.Settings.masterConnectionString" connectionString="Data Source=PC-DANIEL\SQLEXPRESS;Initial Catalog=master;Integrated Security=True" providerName="System.Data.SqlClient" />
+    <add name="Fecip_0._4.Properties.Settings.ConnectionString" connectionString="Data Source=PC-DANIEL\SQLEXPRESS;Integrated Security=True" providerName="System.Data.SqlClient" />
+    <add name="Fecip_0._4.Properties.Settings.masterConnectionString1" connectionString="Data Source=PC-DANIEL;Initial Catalog=master;Integrated Security=True" providerName="System.Data.SqlClient" />
+  </connectionStrings>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+  </startup>
+  <entityFramework>
+    <defaultConnectionFactory type="System.Data.Entity.Infrastructure.SqlCeConnectionFactory, EntityFramework">
+      <parameters>
+        <parameter value="System.Data.SqlServerCe.4.0" />
+      </parameters>
+    </defaultConnectionFactory>
+    <providers>
+      <provider invariantName="System.Data.SqlClient" type="System.Data.Entity.SqlServer.SqlProviderServices, EntityFramework.SqlServer" />
+      <provider invariantName="System.Data.SqlServerCe.4.0" type="System.Data.Entity.SqlServerCompact.SqlCeProviderServices, EntityFramework.SqlServerCompact" />
+    </providers>
+  </entityFramework>
+  <runtime>
+    <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+      <dependentAssembly>
+        <assemblyIdentity name="Microsoft.SqlServer.Types" publicKeyToken="89845dcd8080cc91" culture="neutral" />
+        <bindingRedirect oldVersion="0.0.0.0-14.0.0.0" newVersion="14.0.0.0" />
+      </dependentAssembly>
+      <dependentAssembly>
+        <assemblyIdentity name="Microsoft.ReportViewer.WebForms" publicKeyToken="89845dcd8080cc91" culture="neutral" />
+        <bindingRedirect oldVersion="0.0.0.0-11.0.0.0" newVersion="11.0.0.0" />
+      </dependentAssembly>
+      <dependentAssembly>
+        <assemblyIdentity name="Microsoft.ReportViewer.Common" publicKeyToken="89845dcd8080cc91" culture="neutral" />
+        <bindingRedirect oldVersion="0.0.0.0-11.0.0.0" newVersion="11.0.0.0" />
+      </dependentAssembly>
+      <dependentAssembly>
+        <assemblyIdentity name="Microsoft.ReportViewer.DataVisualization" publicKeyToken="89845dcd8080cc91" culture="neutral" />
+        <bindingRedirect oldVersion="0.0.0.0-12.0.0.0" newVersion="12.0.0.0" />
+      </dependentAssembly>
+    </assemblyBinding>
+  </runtime>
+  
+</configuration>

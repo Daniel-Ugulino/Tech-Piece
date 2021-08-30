@@ -1,0 +1,32 @@
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\obj\Debug\Fecip 0.4.csprojAssemblyReference.cache
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\obj\Debug\Fecip 0.4.csproj.GenerateResource.cache
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\obj\Debug\Fecip 0.4.csproj.CoreCompileInputs.cache
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\bin\Debug\System.Data.SqlClient.dll
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\obj\Debug\Fecip 0.4.csproj.CopyComplete
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\obj\Debug\Fecip_0._4.Menu.resources
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\obj\Debug\Fecip_0._4.Cadastro_peça.resources
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\obj\Debug\Fecip_0._4.Venda.resources
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\obj\Debug\Fecip_0._4.CadFunci.resources
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\obj\Debug\Fecip_0._4.Cad_Cliente.resources
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\obj\Debug\Fecip_0._4.Fornecedor.resources
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\bin\Debug\Tech Piece.exe.config
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\bin\Debug\Tech Piece.exe.manifest
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\bin\Debug\Tech Piece.application
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\bin\Debug\Tech Piece.exe
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\bin\Debug\Tech Piece.pdb
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\obj\Debug\Tech_Piece.Properties.Resources.resources
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\obj\Debug\Tech Piece.exe.manifest
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\obj\Debug\Tech Piece.application
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\obj\Debug\Tech Piece.exe
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\obj\Debug\Tech Piece.pdb
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\bin\Debug\Data_Access.dll
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\bin\Debug\Data_Access.pdb
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\obj\Debug\Fecip_0._4.Login.resources
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\obj\Debug\Fecip_0._4.Relatorio.resources
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\obj\Debug\Fecip_0._4.Senha_Rec.resources
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\bin\Debug\Banco_de_Dados.dll
+C:\Users\AlexJr\source\repos\Fecip 0.4\Fecip 0.4\bin\Debug\Banco_de_Dados.pdb

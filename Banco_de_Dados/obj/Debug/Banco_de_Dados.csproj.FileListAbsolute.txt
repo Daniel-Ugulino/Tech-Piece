@@ -1,0 +1,6 @@
+C:\Users\AlexJr\source\repos\Fecip 0.4\Banco_de_Dados\bin\Debug\Banco_de_Dados.dll
+C:\Users\AlexJr\source\repos\Fecip 0.4\Banco_de_Dados\bin\Debug\Banco_de_Dados.pdb
+C:\Users\AlexJr\source\repos\Fecip 0.4\Banco_de_Dados\obj\Debug\Banco_de_Dados.csprojAssemblyReference.cache
+C:\Users\AlexJr\source\repos\Fecip 0.4\Banco_de_Dados\obj\Debug\Banco_de_Dados.csproj.CoreCompileInputs.cache
+C:\Users\AlexJr\source\repos\Fecip 0.4\Banco_de_Dados\obj\Debug\Banco_de_Dados.dll
+C:\Users\AlexJr\source\repos\Fecip 0.4\Banco_de_Dados\obj\Debug\Banco_de_Dados.pdb
